@@ -5,7 +5,7 @@ body
 
 .menuClass {
     background-color:aquamarine;
-    width:700px;
+    width:20px;
     margin:0 auto;
     border-radius: 25px;
     
@@ -13,27 +13,27 @@ body
 
 .contactClass {
     background-color:bisque;
-    width:900px;
+    width:20px;
     margin:0 auto;
     border-radius: 25px;
 }
 
 .aboutClass {
     background-color:cadetblue;
-    width:1100px;
+    width:20px;
     margin:0 auto;
     border-radius: 25px;
 }
 
 .donateClass {
     background-color :lightskyblue;
-    width:1300px;
+    width:20px;
     margin:0 auto;
     border-radius: 25px;
 }
 
 h1 {
     text-align: center;
-    font-size: 100px;
+    font-size: 50px;
     margin:0px;
 }
