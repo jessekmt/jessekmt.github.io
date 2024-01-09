@@ -32,6 +32,13 @@ body
     border-radius: 25px;
 }
 
+.tableClass {
+    background-color :pink;
+    width:auto;
+    margin:0 auto;
+    border-radius: 25px;
+}
+
 h1 {
     text-align: center;
     font-size: 40px;
