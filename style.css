@@ -5,7 +5,7 @@ body
 
 .menuClass {
     background-color:aquamarine;
-    width:20px;
+    width:auto;
     margin:0 auto;
     border-radius: 25px;
     
@@ -13,27 +13,45 @@ body
 
 .contactClass {
     background-color:bisque;
-    width:20px;
+    width:auto;
     margin:0 auto;
     border-radius: 25px;
 }
 
 .aboutClass {
     background-color:cadetblue;
-    width:20px;
+    width:auto;
     margin:0 auto;
     border-radius: 25px;
 }
 
 .donateClass {
     background-color :lightskyblue;
-    width:20px;
+    width:auto;
     margin:0 auto;
     border-radius: 25px;
 }
 
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin:0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1:hover{
+    height: 80px;
+    animation-iteration-count: infinite;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    text-decoration:none; 
+    cursor:pointer;
+}
+
+a { 
+    color: inherit; 
+    text-decoration: none;
+    text-decoration: none !important; 
+    cursor:pointer;
 }
